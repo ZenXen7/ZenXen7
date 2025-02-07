@@ -15,4 +15,6 @@ The code speaks. I listen. The errors multiply. I transcend.
 - Sleep is a deprecated function.  
 
 
-![mmik](https://github.com/user-attachments/assets/2f1425e8-afbc-4914-821a-cb27315c8ebf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f1425e8-afbc-4914-821a-cb27315c8ebf" width="500">
+</p>
