@@ -16,5 +16,7 @@ The code speaks. I listen. The errors multiply. I transcend.
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f1425e8-afbc-4914-821a-cb27315c8ebf" width="500">
+  <img src="https://github.com/user-attachments/assets/2f1425e8-afbc-4914-821a-cb27315c8ebf" width="800">
+  <img src="https://github.com/user-attachments/assets/2ebfeba7-3cd0-4d96-9dc4-3cfa01ef6d42" width="800>
+
 </p>
