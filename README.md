@@ -14,7 +14,7 @@ The code speaks. I listen. The errors multiply. I transcend.
 - There is no such thing as spaghetti code, only misunderstood genius.  
 - Sleep is a deprecated function.  
 - I use SHlT stack - SQL Haskell Lambda Typescript  
-![Uploading miku2.gif…]()
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2b3552f3-100a-4054-957e-743cefb460fc" width="70%">
