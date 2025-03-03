@@ -13,7 +13,7 @@ The code speaks. I listen. The errors multiply. I transcend.
 - The console logs are cryptic messages from a parallel timeline.  
 - There is no such thing as spaghetti code, only misunderstood genius.  
 - Sleep is a deprecated function.  
-
+- I use SHlT stack - SQL Haskell Lambda Typescript
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2f1425e8-afbc-4914-821a-cb27315c8ebf" width="49%">
