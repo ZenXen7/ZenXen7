@@ -16,7 +16,8 @@ The code speaks. I listen. The errors multiply. I transcend.
 - I use SHlT stack - SQL Haskell Lambda Typescript  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2f1425e8-afbc-4914-821a-cb27315c8ebf" width="70%">
+  <img src="![miku2](https://github.com/user-attachments/assets/2b3552f3-100a-4054-957e-743cefb460fc)
+" width="70%">
 </p>
 
 ## 🚀 Technologies  
