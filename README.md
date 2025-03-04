@@ -85,5 +85,5 @@ The code speaks. I listen. The errors multiply. I transcend.
 </table>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
