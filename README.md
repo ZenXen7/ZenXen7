@@ -11,14 +11,6 @@ The code speaks. I listen. The errors multiply. I transcend.
   <img src="https://github.com/user-attachments/assets/2b3552f3-100a-4054-957e-743cefb460fc" width="70%">
 </p>
 
-## About Me <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
-
-- 🙌🏻&emsp; Let's collaborate
-- 🐍&emsp; I like developing with **Web Applications 🤔**
-- 👨‍💻&emsp; All of my projects are in [here](https://github.com/ZenXen7)
-- ⚡&emsp; I have a rapid development speed **Quick**
-- 📧&emsp; Reach anytime: [here](karlchristianajero@gmail.com)
-- 💬&emsp; View my portfolio [here](https://kcajero-portfolio.vercel.app)
 
 ## 🚀 Technologies  
 <table align="center">
