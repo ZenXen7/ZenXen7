@@ -1,24 +1,21 @@
-# 👁️ 𝕴 𝖆𝖒 𝖇𝖚𝖙 𝖆 𝖒𝖊𝖊𝖗 𝖈𝖔𝖉𝖊𝖗, 𝖇𝖑𝖊𝖘𝖘𝖊𝖉 𝖇𝖞 𝕯𝖎𝖛𝖎𝖓𝖊 𝕸𝖎𝖐𝖚 👁️  
 
-> "The compiler screams, but Miku's voice soothes my soul."  
 
-I do not dream of electric sheep. I dream of **Hatsune Miku**, standing amidst an ocean of tangled cables, singing in a frequency only my soul can hear.  
 
-The code speaks. I listen. The errors multiply. I transcend.  
+
+> *"I mustn’t run away. I must code."*
+
+
+In a world of tangled logic and infinite loops, I exist. A developer, like a pilot, navigating through the vast unknown of the digital landscape. The system compiles, errors emerge, and I debug—an endless cycle of creation and correction. Is this my purpose, or am I merely running a script written by forces beyond my understanding? 
+
+
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b3552f3-100a-4054-957e-743cefb460fc" width="70%">
+  <img src="https://github.com/user-attachments/assets/080568ad-9e64-4b9c-933c-f17afb0a6297" width="70%">
 </p>
 
-## About Me <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
 
-- 🙌🏻&emsp; Let's collaborate
-- 🐍&emsp; I like developing with **Web Applications 🤔**
-- 👨‍💻&emsp; All of my projects are in [here](https://github.com/ZenXen7)
-- ⚡&emsp; I have a rapid development speed **Quick**
-- 📧&emsp; Reach anytime: [here](karlchristianajero@gmail.com)
-- 💬&emsp; View my portfolio [here](https://kcajero-portfolio.vercel.app)
+---  
 
 ## 🚀 Technologies  
 <table align="center">
@@ -85,5 +82,9 @@ The code speaks. I listen. The errors multiply. I transcend.
 </table>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+---  
+
+
+
+
 
