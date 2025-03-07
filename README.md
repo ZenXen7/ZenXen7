@@ -81,11 +81,8 @@ In a world of tangled logic and infinite loops, I exist. A developer, like a pil
   </tr>
 </table>
 
----
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a8e7216a-ad51-482a-85d0-4ff37109163b" width="70%">
-</p>
+
 
 
 ---  
