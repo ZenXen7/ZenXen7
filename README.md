@@ -7,21 +7,13 @@
 
 In a world of tangled logic and infinite loops, I exist. A developer, like a pilot, navigating through the vast unknown of the digital landscape. The system compiles, errors emerge, and I debug—an endless cycle of creation and correction. Is this my purpose, or am I merely running a script written by forces beyond my understanding? 
 
-<div style="display: flex; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=notion" width="60" height="60" alt="Notion" style="margin-right: 10px;" /> 
-  <p style="font-size: 18px; font-weight: bold;">Notion Portfolio Keyboard Winner</p>
-</div>
+<h2 style="font-size: 24px; font-weight: bold; text-align: left; margin-bottom: 10px;">
+  Notion Portfolio Keyboard Winner
+</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/b78bfda9-1498-4713-8e62-b161bf67115c" width="80%" alt="Winning Keyboard Setup" />
-      </td>
-    </tr>
-  </table>
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/b78bfda9-1498-4713-8e62-b161bf67115c" width="50%" alt="Winning Keyboard Setup" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);" />
 </div>
-
 
 
 ---  
