@@ -7,18 +7,19 @@
 
 In a world of tangled logic and infinite loops, I exist. A developer, like a pilot, navigating through the vast unknown of the digital landscape. The system compiles, errors emerge, and I debug—an endless cycle of creation and correction. Is this my purpose, or am I merely running a script written by forces beyond my understanding? 
 
-<h2 style="font-size: 24px; font-weight: bold; text-align: left; margin-bottom: 10px;">
-  Notion Portfolio Keyboard Winner
-</h2>
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/b78bfda9-1498-4713-8e62-b161bf67115c" width="50%" alt="Winning Keyboard Setup" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);" />
-</div>
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/080568ad-9e64-4b9c-933c-f17afb0a6297" width="70%">
+</p>
 
 
 ---  
 
 ## 🚀 Technologies  
+
+
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -87,6 +88,11 @@ In a world of tangled logic and infinite loops, I exist. A developer, like a pil
 
 
 ---  
+
+
+
+
+
 
 
 
