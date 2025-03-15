@@ -1,38 +1,30 @@
+# 👋 Hello, I'm Karl Christian Ajero  
 
+I'm a passionate **Computer Science student** with a strong foundation in **full-stack development, mobile applications, and AI-driven solutions**. I enjoy building scalable and efficient applications that solve real-world problems. With experience in **React, Next.js, Node.js, Express, React Native**, and more, I’m always eager to learn new technologies and improve my skills.  
 
+## 🚀 What I Do  
+- **Web Development** – Building scalable and responsive web applications with modern frameworks.  
+- **Mobile Development** – Creating cross-platform mobile apps using **React Native and Expo**.  
+- **Backend Development** – Designing robust APIs and database-driven applications.  
+- **AI & Machine Learning** – Exploring deep learning and AI solutions for real-world applications.  
 
+---
 
-> *"I mustn’t run away. I must code."*
-
-
-In a world of tangled logic and infinite loops, I exist. A developer, like a pilot, navigating through the vast unknown of the digital landscape. The system compiles, errors emerge, and I debug—an endless cycle of creation and correction. Is this my purpose, or am I merely running a script written by forces beyond my understanding? 
-
-
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/080568ad-9e64-4b9c-933c-f17afb0a6297" width="70%">
-</p>
-
-
----  
-
-## 🚀 Technologies  
-
+## 💡 Technologies  
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TS
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="Sass" /><br>C++
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" /><br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Expressjs" /><br>Express.js
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" /><br>Express.js
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><br>MySQL
@@ -49,10 +41,10 @@ In a world of tangled logic and infinite loops, I exist. A developer, like a pil
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" /><br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="tailwind" /><br>Svelte
+      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" /><br>Svelte
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>Nestjs
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
@@ -63,19 +55,19 @@ In a world of tangled logic and infinite loops, I exist. A developer, like a pil
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="Golang" /><br>Javascipt
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br>Vue.js    
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" /><br>Vue.js    
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Vuetify" /><br>Postman
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>Postman
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="GQL" /><br>Postgresql
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" /><br>Docker
@@ -83,18 +75,14 @@ In a world of tangled logic and infinite loops, I exist. A developer, like a pil
   </tr>
 </table>
 
+---
 
+📫 **Get in Touch:**  
+- GitHub: [ZenXen7](https://github.com/ZenXen7)  
+- Portfolio: [kcajero-portfolio.vercel.app](https://kcajero-portfolio.vercel.app)  
+- LinkedIn: [kc-ajero](https://linkedin.com/in/kc-ajero)  
+- Email: [karlchristianajero@gmail.com](mailto:karlchristianajero@gmail.com)  
 
+---
 
-
----  
-
-
-
-
-
-
-
-
-
-
+Thanks for visiting my profile! 🚀
