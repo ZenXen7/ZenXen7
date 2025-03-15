@@ -44,13 +44,13 @@ I'm a passionate **Computer Science student** with a strong foundation in **full
       <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" /><br>Svelte
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="NestJS" /><br>VSCode
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
     </td>
     <td align="center" width="96">
-     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><br>AWS
+     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><br>Java
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ I'm a passionate **Computer Science student** with a strong foundation in **full
       <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" /><br>Docker
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" /><br>Rest
     </td>
   </tr>
 </table>
