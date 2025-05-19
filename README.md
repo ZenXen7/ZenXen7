@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Karl Christian Ajero  
 
-I'm a passionate **Computer Science student** with a strong foundation in **full-stack development and mobile development**. I enjoy building scalable and efficient applications that solve real-world problems. With experience in **React, Next.js, Node.js, Express, React Native**, and more, I’m always eager to learn new technologies and improve my skills.  
+I'm a passionate **Computer Science student** with a strong foundation in **full-stack development and mobile development**. I enjoy building scalable and efficient applications that solve real-world problems. With experience in **React, Next.js, Nest.js, Node.js, Express, React Native**, and more, I’m always eager to learn new technologies and improve my skills.  
 
 ## 🚀 What I Do  
 - **Web Development** – Building scalable and responsive web applications with modern frameworks.  
